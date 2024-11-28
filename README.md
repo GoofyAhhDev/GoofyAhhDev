@@ -4,7 +4,7 @@
   
 
 
----
+---  
 
 ### 👨‍💻: About Me :
 
@@ -15,7 +15,7 @@ Experienced in writing Python tools for cybersecurity and other applications.
 Skilled in server hosting and system administration.  
 
 
----
+---  
 
 
 ### 🛠️ Skills:
@@ -30,10 +30,10 @@ Skilled in server hosting and system administration.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 
----
+---  
 
 
-### Stats:
+### 📊Cool Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=GoofyAhhDev&theme=dark&hide_border=true)](https://git.io/streak-stats)  
 
 [![GoofyAHh most used language](https://github-readme-stats-sage-rho-57.vercel.app/api/top-langs/?username=GoofyAhhDev&layout=compact&theme=dark&hide_border=true)](https://github.com/GoofyAhhDev/github-readme-stats)
