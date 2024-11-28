@@ -34,6 +34,7 @@ Skilled in server hosting and system administration.
 
 #### Cyber Security skills and tools:
 
+![OSINT](https://img.shields.io/badge/OSINT-1E90FF?logo=web&logoColor=white)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-000000?logo=shield&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8800?logo=burpsuite&logoColor=white)
