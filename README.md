@@ -28,6 +28,7 @@ Skilled in server hosting and system administration.
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?logo=microsoft&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?logo=cisco&logoColor=white)
 
 
 ---  
