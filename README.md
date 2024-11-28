@@ -30,7 +30,4 @@ Skilled in server hosting and system administration.
 ### Stats:
 [![GoofyAHh most used language](https://github-readme-stats-sage-rho-57.vercel.app/api/top-langs/?username=GoofyAhhDev&layout=compact&theme=dark)](https://github.com/GoofyAhhDev/github-readme-stats)
 
-https://github-readme-streak-stats-one-wine.vercel.app/
-
-
-[![GitHub Streak](https://github-readme-streak-stats-one-wine.vercel.app/?user=DenverCoder1)](https://github.com/GoofyAhhDev/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GoofyAhhDev)](https://git.io/streak-stats)
