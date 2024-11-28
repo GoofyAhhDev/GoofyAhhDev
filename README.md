@@ -1,5 +1,8 @@
   <img align="left" alt="GoofyAhhDev stats" src="https://github-readme-stats-sage-rho-57.vercel.app/api?username=GoofyAhhDev&show_icons=true&hide_border=true" />
 
+[![GoofyAHh GitHub stats](https://github-readme-stats-sage-rho-57.vercel.app/api?username=GoofyAhhDev)](https://github.com/GoofyAhhDev/github-readme-stats)
+  
+
 
 ---
 
