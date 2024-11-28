@@ -2,10 +2,10 @@
 
 ## 👨‍💻: About Me :
 
-Cybersecurity student at Fontys University of Applied Sciences.
-Currently expanding my knowledge in cybersecurity.
-Experienced in writing Python tools for cybersecurity and other applications.
-Skilled in server hosting and system administration.
+Cybersecurity student at Fontys University of Applied Sciences.  
+Currently expanding my knowledge in cybersecurity.  
+Experienced in writing Python tools for cybersecurity and other applications.  
+Skilled in server hosting and system administration.  
 
 🛠️ Skills :
 https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg
