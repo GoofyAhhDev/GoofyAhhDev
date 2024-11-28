@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https:/github-readme-stats-cmmkts391-goofyahhdevs-projects.vercel.app?username=GoofyAhhDev)](https://github.com/anuraghazra/github-readme-stats)
+[![ GitHub stats](https:/github-readme-stats-sage-rho-57.vercel.app/api?username=GoofyAhhDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
