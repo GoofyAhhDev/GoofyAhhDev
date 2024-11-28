@@ -8,14 +8,18 @@
 
 ### 👨‍💻: About Me :
 
+
 Cybersecurity student at Fontys University of Applied Sciences.  
 Currently expanding my knowledge in cybersecurity.  
 Experienced in writing Python tools for cybersecurity and other applications.  
 Skilled in server hosting and system administration.  
 
+
 ---
 
+
 ### 🛠️ Skills:
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -25,9 +29,12 @@ Skilled in server hosting and system administration.
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?logo=microsoft&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
+
 ---
 
+
 ### Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=GoofyAhhDev&theme=dark)](https://git.io/streak-stats)  
+
 [![GoofyAHh most used language](https://github-readme-stats-sage-rho-57.vercel.app/api/top-langs/?username=GoofyAhhDev&layout=compact&theme=dark)](https://github.com/GoofyAhhDev/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GoofyAhhDev&theme=dark)](https://git.io/streak-stats)
