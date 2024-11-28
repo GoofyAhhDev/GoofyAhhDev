@@ -23,10 +23,10 @@ Skills and Tools i posses at a sufficient or higher level:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-000000?logo=shield&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8800?logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004A77?logo=nmap&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
