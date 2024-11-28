@@ -1,6 +1,6 @@
 
 
-[![GoofyAHh GitHub stats](https://github-readme-stats-sage-rho-57.vercel.app/api?username=GoofyAhhDev)](https://github.com/GoofyAhhDev/github-readme-stats)
+[![GoofyAHh GitHub stats](https://github-readme-stats-sage-rho-57.vercel.app/api?username=GoofyAhhDev&theme=dark)](https://github.com/GoofyAhhDev/github-readme-stats)
   
 
 
