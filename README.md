@@ -18,8 +18,8 @@ Skilled in server hosting and system administration.
 ---  
 
 
-### 🛠️ Skills:
-
+### 🛠️ Skills:  
+Skills I posses at a sufficient or higher level:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
