@@ -21,7 +21,6 @@ Skilled in server hosting and system administration.
 ### 🛠️ Skills and tools:
 
 #### General skills and tools:  
-Skills and Tools i posses at a sufficient or higher level:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -33,12 +32,17 @@ Skills and Tools i posses at a sufficient or higher level:
 ![Networking Basics](https://img.shields.io/badge/Networking-Basics-0078D4?logo=network&logoColor=white)
 
 
-Skills and tools i am currently learning:  
+#### Cyber Security skills and tools:
 
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-000000?logo=shield&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8800?logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004A77?logo=nmap&logoColor=white)
+
+#### Currently learning:
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-000000?logo=testinglibrary&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-DD0031?logo=virustotal&logoColor=white)
+
 
 ---  
 
