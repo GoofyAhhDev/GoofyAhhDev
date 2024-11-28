@@ -25,4 +25,4 @@ Skilled in server hosting and system administration.
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?logo=microsoft&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
-[![GoofyAHh most used language](https://github-readme-stats-sage-rho-57.vercel.app/api/top-langs/?username=GoofyAhhDev&theme=dark&hide_progress=true)](https://github.com/GoofyAhhDev/github-readme-stats)
+[![GoofyAHh most used language](https://github-readme-stats-sage-rho-57.vercel.app/api/top-langs/?username=GoofyAhhDev&hide_progress=true)](https://github.com/GoofyAhhDev/github-readme-stats)
