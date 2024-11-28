@@ -1,5 +1,5 @@
 <details>
-  <img align="left" alt="GoofyAhhDev stats" src="https://github-readme-stats-goofyahhdevs-projects.vercel.app/api?username=GoofyAhhDev&show_icons=true&hide_border=true" />
+  <img align="left" alt="GoofyAhhDev stats" src="https://github-readme-stats-sage-rho-57.vercel.app/api?username=GoofyAhhDev&show_icons=true&hide_border=true" />
 </details>
 
 
