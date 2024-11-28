@@ -1,6 +1,6 @@
 
 
-[![GoofyAHh GitHub stats](https://github-readme-stats-sage-rho-57.vercel.app/api?username=GoofyAhhDev&theme=dark)](https://github.com/GoofyAhhDev/github-readme-stats)
+[![GoofyAHh GitHub stats](https://github-readme-stats-sage-rho-57.vercel.app/api?username=GoofyAhhDev&theme=dark&hide_border=true)](https://github.com/GoofyAhhDev/github-readme-stats)
   
 
 
@@ -34,7 +34,7 @@ Skilled in server hosting and system administration.
 
 
 ### Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=GoofyAhhDev&theme=dark)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=GoofyAhhDev&theme=dark&hide_border=true)](https://git.io/streak-stats)  
 
-[![GoofyAHh most used language](https://github-readme-stats-sage-rho-57.vercel.app/api/top-langs/?username=GoofyAhhDev&layout=compact&theme=dark)](https://github.com/GoofyAhhDev/github-readme-stats)
+[![GoofyAHh most used language](https://github-readme-stats-sage-rho-57.vercel.app/api/top-langs/?username=GoofyAhhDev&layout=compact&theme=dark&hide_border=true)](https://github.com/GoofyAhhDev/github-readme-stats)
 
