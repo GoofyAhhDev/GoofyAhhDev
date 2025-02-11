@@ -10,9 +10,7 @@
 
 
 Cybersecurity student at Fontys University of Applied Sciences.  
-Currently expanding my knowledge in cybersecurity.  
-Experienced in writing Python tools for cybersecurity and other applications.  
-Skilled in server hosting and system administration.  
+
 
 
 ---  
