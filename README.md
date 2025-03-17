@@ -9,7 +9,7 @@
 ### 👨‍💻: About Me :
 
 
-Cybersecurity student at Fontys University of Applied Sciences.  
+Cybersecurity student.
 
 
 
