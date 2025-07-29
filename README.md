@@ -27,7 +27,7 @@ Cybersecurity student.
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-![PowerShell Logo](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powershell.svg)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FF?style=flat&logo=powershell&logoColor=white)
 
 #### Cloud Computing:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
