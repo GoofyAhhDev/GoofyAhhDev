@@ -16,7 +16,6 @@ BSc ICT – Cybersecurity
 
 ---  
 
-
 ### 🛠️ Skills and tools:
 
 #### General skills:  
@@ -50,21 +49,19 @@ BSc ICT – Cybersecurity
 #### Frameworks & Standards:
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-003366)
 ![NIST CSF](https://img.shields.io/badge/NIST_CSF-005EA2)
-![CIS Controls](https://img.shields.io/badge/CIS_Controls-00A0DF)
+![CIS Controls](https://img.shields.io/badge/CIS_Controls-%2300A0DF?style=flat)
 ![NIS2](https://img.shields.io/badge/NIS2-003399)
-![BIO](https://img.shields.io/badge/BIO-154273)
-![GDPR / AVG](https://img.shields.io/badge/GDPR%20%2F%20AVG-4B0082)
+![BIO](https://img.shields.io/badge/BIO-%23154273?style=flat)
+![GDPR / AVG](https://img.shields.io/badge/GDPR_%2F_AVG-%234B0082?style=flat)
 ![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-8B0000)
-![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?logo=owasp&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-%23000000?style=flat&logo=owasp&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E)
 
 #### Currently learning:
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-000000?logo=testinglibrary&logoColor=white)
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-DD0031?logo=virustotal&logoColor=white)
 
-
 ---  
-
 
 ### 📊Cool Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=GoofyAhhDev&theme=dark&hide_border=true)](https://git.io/streak-stats)  
