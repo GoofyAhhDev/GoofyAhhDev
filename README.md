@@ -6,6 +6,7 @@
 
 ---  
 
+
 ### 👨‍💻: About Me :
 
 Cloud Engineer | Cybersecurity enthusiast
@@ -13,8 +14,8 @@ Cloud Engineer | Cybersecurity enthusiast
 BSc ICT – Cybersecurity
 
 
-
 ---  
+
 
 ### 🛠️ Skills and tools:
 
@@ -47,7 +48,6 @@ BSc ICT – Cybersecurity
 ![Nmap](https://img.shields.io/badge/Nmap-004A77?logo=nmap&logoColor=white)
 
 #### Frameworks & Standards:
-#### Frameworks & Standards:
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-003366)
 ![NIST CSF](https://img.shields.io/badge/NIST_CSF-005EA2)
 ![CIS Controls](https://img.shields.io/badge/CIS_Controls-%2300A0DF?style=flat)
@@ -61,7 +61,9 @@ BSc ICT – Cybersecurity
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-000000?logo=testinglibrary&logoColor=white)
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-DD0031?logo=virustotal&logoColor=white)
 
+
 ---  
+
 
 ### 📊Cool Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=GoofyAhhDev&theme=dark&hide_border=true)](https://git.io/streak-stats)  
