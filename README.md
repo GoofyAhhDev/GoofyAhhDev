@@ -47,6 +47,17 @@ BSc ICT – Cybersecurity
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8800?logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004A77?logo=nmap&logoColor=white)
 
+#### Frameworks & Standards:
+![ISO 27001](https://img.shields.io/badge/ISO_27001-003366)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-005EA2)
+![CIS Controls](https://img.shields.io/badge/CIS_Controls-00A0DF)
+![NIS2](https://img.shields.io/badge/NIS2-003399)
+![BIO](https://img.shields.io/badge/BIO-154273)
+![GDPR / AVG](https://img.shields.io/badge/GDPR%20%2F%20AVG-4B0082)
+![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-8B0000)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?logo=owasp&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E)
+
 #### Currently learning:
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-000000?logo=testinglibrary&logoColor=white)
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-DD0031?logo=virustotal&logoColor=white)
