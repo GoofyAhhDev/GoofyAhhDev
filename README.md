@@ -8,8 +8,9 @@
 
 ### 👨‍💻: About Me :
 
+Cloud Engineer | Cybersecurity enthusiast
 
-Cybersecurity student.
+BSc ICT – Cybersecurity
 
 
 
