@@ -47,11 +47,11 @@ BSc ICT – Cybersecurity
 ![Nmap](https://img.shields.io/badge/Nmap-004A77?logo=nmap&logoColor=white)
 
 #### Frameworks & Standards:
+#### Frameworks & Standards:
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-003366)
 ![NIST CSF](https://img.shields.io/badge/NIST_CSF-005EA2)
 ![CIS Controls](https://img.shields.io/badge/CIS_Controls-%2300A0DF?style=flat)
 ![NIS2](https://img.shields.io/badge/NIS2-003399)
-![BIO](https://img.shields.io/badge/BIO-%23154273?style=flat)
 ![GDPR / AVG](https://img.shields.io/badge/GDPR_%2F_AVG-%234B0082?style=flat)
 ![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-8B0000)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-%23000000?style=flat&logo=owasp&logoColor=white)
